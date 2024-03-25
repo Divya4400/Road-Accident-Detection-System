@@ -15,7 +15,7 @@ This project is about the Video-based RoadAccident Detection System built in Pyt
 
 ## Instruction to Run the Project
 
-1. Clone the repository into your system using the command "git clone https://github.com/snehal2841/Accident-detection-system.git "
+1. Clone the repository into your system using the command "git clone https://github.com/Divya4400/Road-Accident-Detection-System.git "
 2. Install all the packages mentioned above.
 3. Navigate to the directory.
 4. python download.py
